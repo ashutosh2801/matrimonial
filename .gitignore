@@ -7,6 +7,7 @@
 /storage/*.key
 /vendor
 /temp
+/sqlupdates
 /.idea
 /.vscode
 /.vagrant
